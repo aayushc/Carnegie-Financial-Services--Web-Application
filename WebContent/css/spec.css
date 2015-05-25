@@ -1,0 +1,7 @@
+.custom {
+	width: 200px;
+}
+
+[title~="Click on the words in blue to see an explanation of the term!"] {
+	font-size: 100%;
+}
